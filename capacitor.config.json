@@ -1,0 +1,6 @@
+{
+  "appId": "kq.com",
+  "appName": "k6mobile",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
